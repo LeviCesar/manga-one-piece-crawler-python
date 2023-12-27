@@ -14,8 +14,6 @@ O crawler consiste em consultar as imagens do manga <a href="https://onepieceex.
 
 ## Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
 - [x] Captura das imagens do manga
 - [x] Tratamento e conversão de imagens
 
