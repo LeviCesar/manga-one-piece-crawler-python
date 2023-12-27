@@ -9,7 +9,7 @@
 
 Este projeto é um crawler que foi desenvolvido utilizando python para captura de imagens e conversão em pdf. 
 
-O crawler consiste em consultar as imagens do manga <a href="https://onepieceex.net/">One Piece</a>, realizar o download delas e armazena-las em pastas organizadas em uma estrutura de captulos. Após ser realizada a captura de todas as imagens referentes ao captulo é realizado um tratamento das imagens e a conversão das mesmas em um arquivo PDF.
+O crawler consiste em consultar os capítulos do mangá <a href='https://onepieceex.net/'>One Piece</a> e realizar o download das imagens para armazená-las em pastas, organizadas em uma estrutura de capítulos. Após ser realizada a captura de todas as imagens referentes ao capítulo, é realizado um tratamento das imagens e a conversão das mesmas em um arquivo PDF.
 
 
 ## Ajustes e melhorias
